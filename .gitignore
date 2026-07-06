@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Model weights (large binary, downloaded via download_weights.sh)
+weights/*.pth
+
+# Outputs
+output/
+result*.jpg
+result*.png
+
+# OS/editor cruft
+.DS_Store
+.vscode/
+.idea/

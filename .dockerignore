@@ -1,0 +1,11 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+.venv
+venv
+output/
+result*.jpg
+result*.png
+notebook*.ipynb
